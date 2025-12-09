@@ -60,7 +60,7 @@ Generating synthetic PathMNIST pathology images using DCGAN and Conditional GAN.
 - Excel Dashboards  
 - Python (pandas, EDA, visualisation)  
 - SQL fundamentals  
-- Power BI (learning)  
+- Power BI  
 
 **Business**  
 - Insight storytelling  
