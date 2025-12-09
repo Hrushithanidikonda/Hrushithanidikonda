@@ -116,6 +116,6 @@ Generating synthetic PathMNIST pathology images using DCGAN and Conditional GAN.
 </p>
 
 <p align="center">
-✨ Thanks for visiting — feel free to explore my projects 💛
+✨ Thanks for visiting — feel free to explore my projects 
 </p>
 
