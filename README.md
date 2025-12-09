@@ -10,6 +10,10 @@ I enjoy transforming raw data into insights and decisions.
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hrushithanidikonda/Hrushithanidikonda/refs/heads/main/1749480646911.jpg" width="200" style="border-radius:10px;" />
+</p>
+
 
 ## 🚀 Interests
 
