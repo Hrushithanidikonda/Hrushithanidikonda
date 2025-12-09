@@ -75,20 +75,16 @@ Generating synthetic PathMNIST images using DCGAN and cGAN
   <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
 </p>
 
-
-## 📌 GitHub Insights
-
----
-
-## 📌 GitHub Insights
+## 📌 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrushithanidikonda&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrushithanidikonda&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushithanidikonda&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hrushithanidikonda&show_icons=true&theme=tokyonight" />
 </p>
+
 
 ## 📫 Connect With Me  
 
