@@ -5,62 +5,69 @@
 Welcome to my GitHub portfolio!  
 I enjoy transforming raw data into insights and decisions.
 
-🚀 My interests include:
-- Data Analysis
-- Business Insights
-- Forecasting & Modelling
-- Customer Behaviour Analytics
-- Dashboards & Visual Reporting
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A020F0&size=22&center=true&vCenter=true&width=600&lines=Graduate+Data+Analyst;MSc+Data+Science+%7C+University+of+Hertfordshire;Turning+data+into+insights+and+decisions;Open+to+Data+Analyst+roles+in+the+UK">
+</p>
 
+---
+
+## 🚀 Interests
+
+- Data Analysis & Business Insights  
+- Forecasting & Modelling  
+- Customer Behaviour Analytics  
+- Dashboards & Visual Reporting  
 
 ---
 
 ## ⭐ Featured Projects  
 
 ### 📌 Oil Price Forecasting — ARIMA vs Prophet  
-Forecasting Brent crude oil trends using ARIMA(6,1,7) and Facebook Prophet  
-🔗 https://github.com/Hrushithanidikonda/oil_prices_assignment
+Forecasting Brent crude oil trends using ARIMA(6,1,7) and Facebook Prophet.  
+**Tech:** Python, pandas, statsmodels, Prophet  
+🔗 [View Repository](https://github.com/Hrushithanidikonda/oil_prices_assignment)
 
 ---
 
 ### 📌 Credit Risk Analysis — Machine Learning  
-Predicting customer default using ML models  
-🔗 https://github.com/Hrushithanidikonda/CreditRiskAnalysis
+Predicting customer default using supervised ML models (Logistic Regression, Random Forest, XGBoost).  
+**Tech:** Python, scikit-learn, SMOTE, SHAP/LIME  
+🔗 [View Repository](https://github.com/Hrushithanidikonda/CreditRiskAnalysis)
 
 ---
 
 ### 📌 Retail Sales Insights — Python  
-Identifying profitable regions, loss products, and customer segments  
-🔗 https://github.com/Hrushithanidikonda/superstore-sales-analysis
+Identifying profitable regions, loss products, and customer segments for a global superstore dataset.  
+**Tech:** Python, pandas, matplotlib  
+🔗 [View Repository](https://github.com/Hrushithanidikonda/superstore-sales-analysis)
 
 ---
 
 ### 📌 GAN-Based Medical Image Generation  
-Generating synthetic PathMNIST images using DCGAN and cGAN  
-🔗 https://github.com/Hrushithanidikonda/gan-medical-image-generation
+Generating synthetic PathMNIST pathology images using DCGAN and Conditional GAN.  
+**Tech:** PyTorch, torchvision, medmnist  
+🔗 [View Repository](https://github.com/Hrushithanidikonda/gan-medical-image-generation)
 
 ---
 
 ## 🔧 Skills  
 
-**Technical:**  
-✔ Excel Dashboards  
-✔ Python (pandas, EDA, visualization)  
-✔ SQL fundamentals  
-✔ Power BI  
+**Technical**  
+- Excel Dashboards  
+- Python (pandas, EDA, visualisation)  
+- SQL fundamentals  
+- Power BI (learning)  
 
-**Business:**  
-✔ Insight storytelling  
-✔ Presentation & reporting  
-✔ Customer-facing communication  
+**Business**  
+- Insight storytelling  
+- Presentation & reporting  
+- Customer-facing communication  
 
-**Tools:**  
-✔ Colab / Jupyter  
-✔ GitHub  
-✔ Sheets / Drive  
+**Tools**  
+- Colab / Jupyter  
+- GitHub  
+- Google Sheets / Drive  
 
-
----
 ---
 
 ## 🛠 Technology Stack
@@ -75,6 +82,8 @@ Generating synthetic PathMNIST images using DCGAN and cGAN
   <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
 </p>
 
+---
+
 ## 📌 GitHub Activity
 
 <p align="center">
@@ -85,18 +94,20 @@ Generating synthetic PathMNIST images using DCGAN and cGAN
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hrushithanidikonda&show_icons=true&theme=tokyonight" />
 </p>
 
+---
 
 ## 📫 Connect With Me  
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hrushithanidikonda">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hrushithanidikonda@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-purple?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 📍 Based in Hertfordshire, UK  
-
-🔗 LinkedIn: www.linkedin.com/in/hrushithanidikonda 
-🔗 GitHub: https://github.com/Hrushithanidikonda
-📧 Email: hrushithanidikonda@gmail.com  
-
-
-✨ Thanks for visiting my portfolio!  
-Feel free to explore my repositories 💛  
 
 ---
 
