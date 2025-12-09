@@ -61,6 +61,31 @@ Generating synthetic PathMNIST images using DCGAN and cGAN
 
 
 ---
+---
+
+## 🛠 Technology Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+</p>
+
+
+## 📌 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushithanidikonda&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrushithanidikonda&show_icons=true&theme=radical" />
+</p>
+
 
 ## 📫 Connect With Me  
 
@@ -73,4 +98,14 @@ Generating synthetic PathMNIST images using DCGAN and cGAN
 
 ✨ Thanks for visiting my portfolio!  
 Feel free to explore my repositories 💛  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hrushithanidikonda&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+<p align="center">
+✨ Thanks for visiting — feel free to explore my projects 💛
+</p>
 
