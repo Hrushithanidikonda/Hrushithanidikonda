@@ -78,14 +78,17 @@ Generating synthetic PathMNIST images using DCGAN and cGAN
 
 ## 📌 GitHub Insights
 
+---
+
+## 📌 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushithanidikonda&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrushithanidikonda&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrushithanidikonda&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushithanidikonda&layout=compact&theme=tokyonight" />
 </p>
-
 
 ## 📫 Connect With Me  
 
