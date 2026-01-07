@@ -52,6 +52,12 @@ Generating synthetic PathMNIST pathology images using DCGAN and Conditional GAN.
 **Tech:** PyTorch, torchvision, medmnist  
 🔗 [View Repository](https://github.com/Hrushithanidikonda/gan-medical-image-generation)
 
+📌 BERT-Based Sentiment Analysis — Large Language Models
+
+Fine-tuning a pre-trained BERT model for binary sentiment classification on IMDb movie reviews, with comparison against a traditional TF-IDF + Logistic Regression baseline.
+Tech: Python, Hugging Face Transformers, PyTorch, scikit-learn
+🔗 View Repository https://github.com/Hrushithanidikonda/bert-sentiment-analysis-imdb
+
 ---
 
 ## 🔧 Skills  
