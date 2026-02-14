@@ -25,7 +25,6 @@ I enjoy transforming raw data into insights and decisions.
 ---
 
 ## ⭐ Featured Projects  
-AI
 
 📌 Credit Card Fraud Detection — End-to-End ML Pipeline
 
