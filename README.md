@@ -25,6 +25,31 @@ I enjoy transforming raw data into insights and decisions.
 ---
 
 ## ⭐ Featured Projects  
+AI
+
+📌 Credit Card Fraud Detection — End-to-End ML Pipeline
+
+Built a machine learning fraud detection system on 284,807 real-world financial transactions to identify high-risk payments while handling severe class imbalance (0.17% fraud rate).
+
+Key Outcomes:
+
+Addressed extreme class imbalance using SMOTE resampling
+
+Built and compared Logistic Regression & Random Forest models
+
+Achieved ROC-AUC of 0.98+ for fraud detection
+
+Optimized Precision-Recall tradeoff for financial risk mitigation
+
+Identified top fraud-driving features (V10, V14, V4, V12, V11)
+
+Calculated total fraud exposure: £60,127.97 detected in dataset
+
+Business Impact Simulation:
+Demonstrated how ML models can reduce financial losses by detecting high-risk transactions before settlement.
+
+Tech: Python, pandas, scikit-learn, SMOTE, matplotlib, seaborn
+🔗[View Repository](https://github.com/Hrushithanidikonda/credit-card-fraud-detection)
 
 ### 📌 Oil Price Forecasting — ARIMA vs Prophet  
 Forecasting Brent crude oil trends using ARIMA(6,1,7) and Facebook Prophet.  
@@ -57,6 +82,8 @@ Generating synthetic PathMNIST pathology images using DCGAN and Conditional GAN.
 Fine-tuning a pre-trained BERT model for binary sentiment classification on IMDb movie reviews, with comparison against a traditional TF-IDF + Logistic Regression baseline.
 Tech: Python, Hugging Face Transformers, PyTorch, scikit-learn
 🔗 View Repository https://github.com/Hrushithanidikonda/bert-sentiment-analysis-imdb
+
+
 
 ---
 
